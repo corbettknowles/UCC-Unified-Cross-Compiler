@@ -71,4 +71,5 @@ Testing/
 # thirdparty repositories
 backend/thirdparty/
 
-# TablwGen Generated files *.inc
+# TablwGen Generated files 
+*.inc
